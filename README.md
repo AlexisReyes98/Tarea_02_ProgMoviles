@@ -1,7 +1,7 @@
 # Tarea_02_ProgMoviles
 Aplicación para móviles que pase un grupo de objetos en una Lista de una actividad a otra actividad.
 
-Negocio asignado: Registro Deportvo.
+Negocio asignado: Registro Deportivo.
 
 Se desarrollo lo siguiente:
 
