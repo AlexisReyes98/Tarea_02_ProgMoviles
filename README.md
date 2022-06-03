@@ -1,4 +1,7 @@
 # Tarea_02_ProgMoviles
+
+UEA: Programación para Móviles.
+
 Aplicación para móviles que pase un grupo de objetos en una Lista de una actividad a otra actividad.
 
 Negocio asignado: Registro Deportivo.
